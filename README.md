@@ -75,6 +75,7 @@ php artisan migrate
 
 # Start the local server
 php artisan serve
+```
 
 Then you can access the app at  
 👉 **http://localhost:8000**
